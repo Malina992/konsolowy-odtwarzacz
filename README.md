@@ -20,4 +20,5 @@ aby skorzystać z programu należy wywołać go oraz wpisać żądany link do wi
 ./odtwarzacz.sh '<link do wideo>'
 ```
 
-W katalogu domowym pojawi się folder o nazwie "wideocon" w którym będą znajdować się pliki wideo po obejrzeniu można je bezpiecznie usunąć 
+W katalogu domowym pojawi się folder o nazwie "wideocon" w którym będą znajdować się pliki wideo po obejrzeniu usuwa się sam 
+jeżeli nie usunie się samoczynnie można je usunąć lub zostawić. 
